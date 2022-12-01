@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-92e5302e","path":"/imprint.html","title":"Imprint","lang":"en-US","frontmatter":{"search":false},"excerpt":"","headers":[],"git":{"updatedTime":1669928977000,"contributors":[{"name":"Saladoc","email":"git@saladoc.de","commits":1}]},"filePathRelative":"imprint.md"}');export{e as data};

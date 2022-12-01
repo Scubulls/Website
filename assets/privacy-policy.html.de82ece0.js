@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b106f6ee","path":"/privacy-policy.html","title":"Privacy Policy","lang":"en-US","frontmatter":{"search":false},"excerpt":"","headers":[],"git":{"updatedTime":1669928977000,"contributors":[{"name":"Saladoc","email":"git@saladoc.de","commits":1}]},"filePathRelative":"privacy-policy.md"}');export{e as data};
